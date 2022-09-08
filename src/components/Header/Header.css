@@ -17,3 +17,7 @@
 .header a:hover{
     color: orange;
 }
+
+nav .active{
+    color: #FF9900;
+}
